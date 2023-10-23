@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesAndVariables", "DataTypesAndVariables\DataTypesAndVariables.csproj", "{E1078194-19D4-43D7-B314-CCCEE6F11C33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypesAndVariables", "DataTypesAndVariables\DataTypesAndVariables.csproj", "{E1078194-19D4-43D7-B314-CCCEE6F11C33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{F370B1EA-DB46-408B-BD24-EE6DC706487C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "Conditionals\Conditionals.csproj", "{F370B1EA-DB46-408B-BD24-EE6DC706487C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{462054AF-9FE7-4B28-983B-ECDA4B3E7BDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F370B1EA-DB46-408B-BD24-EE6DC706487C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F370B1EA-DB46-408B-BD24-EE6DC706487C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F370B1EA-DB46-408B-BD24-EE6DC706487C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462054AF-9FE7-4B28-983B-ECDA4B3E7BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462054AF-9FE7-4B28-983B-ECDA4B3E7BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462054AF-9FE7-4B28-983B-ECDA4B3E7BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462054AF-9FE7-4B28-983B-ECDA4B3E7BDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
