@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypesAndVariables", "Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "Conditionals\Conditionals.csproj", "{F370B1EA-DB46-408B-BD24-EE6DC706487C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{462054AF-9FE7-4B28-983B-ECDA4B3E7BDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{462054AF-9FE7-4B28-983B-ECDA4B3E7BDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{070CAF7A-C194-4D4D-B1C1-F8C0B103AFC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{070CAF7A-C194-4D4D-B1C1-F8C0B103AFC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{AC0E1505-90BA-46E4-A9C9-DF6D70438C79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{070CAF7A-C194-4D4D-B1C1-F8C0B103AFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{070CAF7A-C194-4D4D-B1C1-F8C0B103AFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{070CAF7A-C194-4D4D-B1C1-F8C0B103AFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0E1505-90BA-46E4-A9C9-DF6D70438C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0E1505-90BA-46E4-A9C9-DF6D70438C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0E1505-90BA-46E4-A9C9-DF6D70438C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0E1505-90BA-46E4-A9C9-DF6D70438C79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
